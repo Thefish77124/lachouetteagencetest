@@ -7,11 +7,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.couleur_lien {
-    color: #0000d8!important;
-    text-decoration: underline;
-}
-
 a,
 button {
     transition: all .3s ease-in-out;

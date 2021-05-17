@@ -7,6 +7,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.btn-atomic-tangerine2 {
+    background: #cd460F;
+    color: #FFFFFF!important;
+}
+
+.tc-brown{
+    color: #cd460F!important;
+
+}
+
+.black-background2{
+    background-color: rgba(64, 64,64, 0.7);
+    padding: 40px 40px 40px 40px;
+}
+
+.bgc-atomic-tangerine2 {
+    background-color: #cd460F!important;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -677,7 +695,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
